@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JohnSapp-Dev
+- 👋 Hi, I’m John Sapp
 - 👀 I’m interested in Space, Robotics, and Creating a better tomorrow 
 - 🌱 I’m currently learning Java and SQL
 - 💞️ I’m looking to collaborate on ...
