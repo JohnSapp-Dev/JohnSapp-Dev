@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John</h1>
-<h3 align="center">A passionate Java Developer From Orlando, FL</h3>
+  <h3 align="center">A passionate Software Developer student From Orlando, FL</h3>
 
 - 🔭 I’m currently working on **a Bachelors in Software Development**
 
