@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a Bachelors in Software Development**
 
-- 🌱 I’m currently learning **Project Development and integration**
+- 🌱 I’m currently learning **Automation and full stack development**
 
 - 📫 How to reach me **sappjohn1994@gmail.com**
 
