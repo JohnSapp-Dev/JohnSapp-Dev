@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm John</h1>
-<h3 align="center">A recent Software Developer Grad From Orlando, FL</h3>
+<h3 align="center">A recent Software Development Grad From Orlando, FL</h3>
 
 - 🔭 I’m currently working on **Data pipeline (ETL) automation using Python and Apache Airflow**
 
