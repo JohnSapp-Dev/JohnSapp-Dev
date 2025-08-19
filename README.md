@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sappjohn1994@gmail.com**
 
-- 📄 Find my resume [https://drive.google.com/file/d/173cIt7_lIG1vht9tQ0nzD3pi-eY6UAL-/view?usp=sharing](https://drive.google.com/file/d/173cIt7_lIG1vht9tQ0nzD3pi-eY6UAL-/view?usp=sharing)
+- 📄 Find my resume [Here!](https://drive.google.com/file/d/173cIt7_lIG1vht9tQ0nzD3pi-eY6UAL-/view?usp=sharing)
 
 - ⚡ Fun fact **I shaved my face, leading to getting featured on the news.**
 
