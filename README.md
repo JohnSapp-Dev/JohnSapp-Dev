@@ -10,6 +10,7 @@
 - 📄 Find my resume [Here!](https://drive.google.com/file/d/173cIt7_lIG1vht9tQ0nzD3pi-eY6UAL-/view?usp=sharing)
 
 - ⚡ Fun fact **I shaved my face, leading to getting featured on the news.**
+  <!--https://www.wfla.com/news/florida/seeing-double-orlando-international-airports-famed-the-traveler-statue-has-a-real-life-doppelganger/-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
